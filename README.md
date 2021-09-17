@@ -14,7 +14,7 @@ cd client & npm i
 
 ### Compile & run frontend
 ```
-npm run serve
+npm start
 ```
 
 ### Backend setup
@@ -29,7 +29,7 @@ node server
 ```
 ### Compile & run frontend & backend from root
 ```
-npm run serve
+npm run dev
 
 ```
 
